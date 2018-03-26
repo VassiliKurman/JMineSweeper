@@ -1,5 +1,5 @@
 # JMinesweeper
-Popular arcade Minesweeper game written in Java.
+JMinesweeper is a popular arcade Minesweeper game that written in Java and uses Java swing components to display graphical user interface.
 
 How to Play Minesweeper:
   - The object of the game is to uncover all squares that don't contain mines.
